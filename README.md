@@ -1,3 +1,25 @@
+# Light-JimLiu
+
+Hexo主题Light的修改版
+
+## 增加功能：
+
+* 多说评论框——在`_config.yml`的`duoshuo`填写多说标识，或修改`_partial/duoshuo.ejs`
+* ABOUT ME模块——修改`_config.yml`中的about_me段落，或修改`_widget/about_me.ejs`
+* Links模块——修改`_config.yml`中的`links`段落
+* 百度统计——在`_partial/baidu_stats.ejs`中放入你的百度统计代码
+
+## 默认去掉：
+
+* twitter
+* addthis
+
+## 其他：
+
+* 按中文习惯调整了一些字体
+* 调整了引用块和代码块的样式细节
+* 调整了文章中粗体字的颜色
+
 # Light
 
 Default theme for [Hexo].

@@ -1,13 +1,18 @@
 menu:
   Home: /
-  Archives: /archives
+#  Archives: /archives
+  About: /about
+  Feedback: /feedback
 
 widgets: 
-- search
+#- search
+- about_me
 - category
 - tag
+- recent_posts
+- links
 
-excerpt_link: Read More
+excerpt_link: 全文
 
 twitter:
   username:
@@ -15,7 +20,7 @@ twitter:
   tweet_count: 5
 
 addthis:
-  enable: true
+#  enable: true
   pubid:
   facebook: true
   twitter: true
@@ -26,3 +31,17 @@ fancybox: true
 
 google_analytics:
 rss:
+
+links:
+- name: Jim Liu's Blog
+  link: http://jimliu.net
+
+duoshuo: jimliu-net
+
+about_me:
+  title: ABOUT JIM
+  avatar: /uploads/2012/03/Pig.180x180-150x150.jpg
+  texts:
+  - <a href="/about" target="_BLANK">刘骥</a>
+  - 微博：<a href="http://weibo.com/jimnox" target="_BLANK">@刘骥-JimLiu</a>
+  - 旧博客：<a href="http://jimnox.cnblogs.com/" target="_BLANK">博客园</a>
