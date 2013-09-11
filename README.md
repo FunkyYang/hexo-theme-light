@@ -2,6 +2,8 @@
 
 Hexo主题Light的修改版
 
+**DEMO** @ [Jim Liu's Blog](http://blog.jimliu.net)
+
 ## 增加功能：
 
 * 多说评论框——在`_config.yml`的`duoshuo`填写多说标识，或修改`_partial/duoshuo.ejs`
