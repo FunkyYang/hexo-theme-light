@@ -8,6 +8,7 @@ widgets:
 - category
 - tag
 - recent_posts
+- duoshuo_recent_comments
 - links
 
 excerpt_link: 全文

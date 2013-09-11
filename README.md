@@ -7,6 +7,7 @@ Hexo主题Light的修改版
 ## 增加功能：
 
 * 多说评论框——在`_config.yml`的`duoshuo`填写多说标识，或修改`_partial/duoshuo.ejs`
+* 多说最新评论模块——`duoshuo_recent_comments`
 * ABOUT ME模块——修改`_config.yml`中的about_me段落，或修改`_widget/about_me.ejs`
 * Links模块——修改`_config.yml`中的`links`段落
 * 百度统计——在`_partial/baidu_stats.ejs`中放入你的百度统计代码
